@@ -1,4 +1,4 @@
-## Olá, me chamo Rafael, atualmente curso Ciência da programação.
+## Olá, me chamo Rafael, atualmente curso Ciência da computação.
 
 ⚡ Algumas coisas sobre mim: 
       Gosto de matemática.
