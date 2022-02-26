@@ -1,12 +1,12 @@
 ## Olá, me chamo Rafael, atualmente curso Ciência da computação.
 
-⚡ Algumas coisas sobre mim: 
-      Gosto de matemática.
-      Planejo me especializar em inteligência artifical para projetos pessoais.
-      Gosto de ensinar coisas que eu sei.
-      Amo Harry Potter.
+<h2>⚡ Algumas coisas sobre mim:</h2> 
+     - Gosto de matemática.
+     - Planejo me especializar em inteligência artifical para projetos pessoais.
+     - Gosto de ensinar coisas que eu sei.
+     - Amo Harry Potter.
 
- 🔭 Atualmente estou trabalhando em: Pseudocódigos para a faculdade.
+<h3> 🔭 Atualmente estou trabalhando em: Pseudocódigos para a faculdade. </h3>
  
 
 <div align="center">
