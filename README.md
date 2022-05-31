@@ -7,7 +7,7 @@
 - Gosto de ensinar coisas que eu sei.
 - Amo Harry Potter.
 
-<h3> 🔭 Atualmente estou trabalhando em: Pseudocódigo. </h3>
+<h3> 🔭 Atualmente estou estudando: Java e C. </h3>
  
 
 <div align="center">
