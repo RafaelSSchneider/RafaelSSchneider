@@ -7,7 +7,7 @@
 - Gosto de ensinar coisas que eu sei.
 - Amo Harry Potter.
 
-<h3> 🔭 Atualmente estou estudando: Java e C. </h3>
+<h3> 🔭 Atualmente estou estudando: Javascript, react, nextJS . </h3>
 
 <!--
 **RafaelSSchneider/RafaelSSchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
