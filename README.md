@@ -3,11 +3,10 @@
 <h2>⚡ Algumas coisas sobre mim:</h2> 
 
 - Gosto de matemática.
-- Planejo me especializar em inteligência artifical para projetos pessoais.
 - Gosto de ensinar coisas que eu sei.
 - Amo Harry Potter.
 
-<h3> 🔭 Atualmente estou estudando: Javascript, react, nextJS . </h3>
+<h3> 🔭 Atualmente estou estudando: Javascript, Python . </h3>
 
 <!--
 **RafaelSSchneider/RafaelSSchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
