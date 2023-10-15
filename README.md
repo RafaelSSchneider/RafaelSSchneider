@@ -1,13 +1,5 @@
 ## Olá, me chamo Rafael, atualmente curso Ciência da computação.
 
-<h2>⚡ Algumas coisas sobre mim:</h2> 
-
-- Gosto de matemática.
-- Gosto de ensinar coisas que eu sei.
-- Amo Harry Potter.
-
-<h3> 🔭 Atualmente estou estudando: Javascript, Python . </h3>
-
 <!--
 **RafaelSSchneider/RafaelSSchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
